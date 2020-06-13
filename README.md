@@ -15,10 +15,6 @@ Hi! Our team name is Deans List, comprising of members Teo Zhen Jie, Marvin Pran
 1. [Running the tests](#running-the-tests)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
-1. [Contributing](#contributing)
-1. [Versioning](#versioning)
-1. [Authors](#authors)
-1. [License](#license)
 1. [Acknowledgments](#acknowledgments)
 
 ## Short description
@@ -43,10 +39,20 @@ Providing an integrated, one-stop platform for citizens to keep up-to-date with 
 
 ![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+**Content Prediction** 
+1. The user opens the app and is directed to the dashboard. Multiple sets of content will be displayed.
+2. The user can indicate whether he/she enjoys seeing a specific set of content by pressing the button on the bottom right corner of the content box. Green indicates interest while red indicates non-interest.
+3. User preference is fed into AutoAI to predict what content the user enjoys seeing. Predicted content will then be output for user to indicate interest again. Cycle continues. 
+
+**Chatbot**
+1. User types in question in chatbox
+2. Watson assistant processes question with watson discovery as data source. 
+3. An answer is output to user. 
+
+**Raising Awareness**
+1. User will be prompted to share content through stories on Instagram, or posts on Facebook.
+2. If user allows, webhook to social media app will bring user to the app to share said stories/posts.
+3. Notifications will be generated to urge users to raise awareness even when app is not in use.
 
 ## Long description
 
@@ -126,27 +132,7 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
 * [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details
+* [Flutter](https://flutter.dev/)- To develop the app
 
 ## Acknowledgments
 
