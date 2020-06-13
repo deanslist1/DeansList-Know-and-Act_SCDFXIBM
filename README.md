@@ -33,7 +33,7 @@ Technology can help pool and filter all relevant and accurate infomation that ma
 
 ### The idea
 
-Providing an integrated, one-stop platform for citizens to keep up-to-date with any changes that may have an immediate impact on their health (such as the Poluution Standard Index, covid-19 clusters etc) would offer much convenience and minimise confusion within the general public. This education is critical for communities and nations to be on the same page when identifying and solving issues, improving civil defence and community resilience. Furthermore, this improves decisiveness within the public and would be able to aid the SCDF in delivering a prompt response to the given situations.  
+Providing an integrated, one-stop platform for citizens to keep up-to-date with any changes that may have an immediate impact on their health (such as the Poluution Standard Index, covid-19 clusters etc) would offer much convenience and minimise confusion within the general public. This education is critical for communities and nations to be on the same page when identifying and solving issues, improving civil defence and community resilience. Prompting and providing instructions through the app to the users would raise awareness and improve decisiveness, aiding the SCDF in delivering a prompt response to any given situation.  
 
 ## Demo video
 
@@ -50,7 +50,7 @@ Providing an integrated, one-stop platform for citizens to keep up-to-date with 
 
 ## Long description
 
-[More detail is available here](DESCRIPTION.md)
+[Detailed description of our problem and solution](https://docs.google.com/document/d/1jlnSAGuVTAoucwC5s337T9nCjMMMrKKHBf_vb2qPA18/edit?usp=sharing)
 
 ## Project roadmap
 
