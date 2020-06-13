@@ -25,7 +25,7 @@ Hi! Our team name is Deans List, comprising of members Teo Zhen Jie, Marvin Pran
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time,  keeping them engaged, entertained, and on top of their education is important.
+Covid-19 and the Australian wildfires are just 2 examples of how sheer complacency, ignorance and misinformation can give rise to disastrous consequences. In the case of the Australian wildfires, a lack of accurate and reliable information on locations of fire may have made evacuation efforts less spontaneous. In the case of Covid-19, some citizens may not understand the various nuances of this virus and their actions may undermine the health of entire communities. In both cases, even if citizens are well-educated about the actions they ought to take, they they lack the decisiveness to act immediately; a priceless oppurtunity to improve community resiliance being left not taken advantage of.
 
 ### How can technology help?
 
