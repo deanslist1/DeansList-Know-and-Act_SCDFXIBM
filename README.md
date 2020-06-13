@@ -25,15 +25,15 @@ Hi! Our team name is Deans List, comprising of members Teo Zhen Jie, Marvin Pran
 
 ### What's the problem?
 
-Covid-19 and the Australian wildfires are just 2 examples of how sheer complacency, ignorance and misinformation can give rise to disastrous consequences. In the case of the Australian wildfires, a lack of accurate and reliable information on locations of fire may have made evacuation efforts less spontaneous. In the case of Covid-19, some citizens may not understand the various nuances of this virus and their actions may undermine the health of entire communities. In both cases, even if citizens are well-educated about the actions they ought to take, they they lack the decisiveness to act immediately; a priceless oppurtunity to improve community resiliance being left not taken advantage of.
+Covid-19 and the Australian wildfires are just 2 examples of how sheer complacency, ignorance and misinformation can give rise to disastrous consequences. This, combined with the increasingly pervasive threat of fake news to society, can potentially undermine our very fragile social systems. In the case of the Australian wildfires, a lack of accurate and reliable information on locations of fire may have made evacuation efforts less spontaneous. In the case of Covid-19, some citizens may not understand the various nuances of this virus and their actions may jeopardize the health of entire communities. In both cases, even if citizens are well-educated about the actions they ought to take, they they lack the decisiveness to act immediately; a priceless oppurtunity to improve community resiliance being left not taken advantage of.
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+Technology can help pool and filter all relevant and accurate infomation that may be of interest to a member of public and present them in a convenient and cogent way. Also, technology can eliminate the existential intertia that citizens have to act by actively prompting them to help in any way possible, be it through spreading awareness on social media, or simply putting on a mask etc.
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+Providing an integrated, one-stop platform for citizens to keep up-to-date with any changes that may have an immediate impact on their health (such as the Poluution Standard Index, covid-19 clusters etc) would offer much convenience and minimise confusion within the general public. This education is critical for communities and nations to be on the same page when identifying and solving issues, improving civil defence and community resilience. Furthermore, this improves decisiveness within the public and would be able to aid the SCDF in delivering a prompt response to the given situations.  
 
 ## Demo video
 
