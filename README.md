@@ -120,7 +120,8 @@ npx eslint sample-file.js
 
 ## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/)
+[Chatbot](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=e8aee7e8-f058-4974-a57f-1e14bc736b1b&serviceInstanceID=9758eca1-bbf1-410b-bf41-149706ec94d1)
+
 
 ## Built with
 
