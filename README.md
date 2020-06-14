@@ -21,15 +21,15 @@ Hi! Our team name is Deans List, comprising of members Teo Zhen Jie, Marvin Pran
 
 ### What's the problem?
 
-Covid-19 and the Australian wildfires are just 2 examples of how sheer complacency, ignorance and misinformation can give rise to disastrous consequences. This, combined with the increasingly pervasive threat of fake news to society, can potentially undermine our very fragile social systems. In the case of the Australian wildfires, a lack of accurate and reliable information on locations of fire may have made evacuation efforts less spontaneous. In the case of Covid-19, some citizens may not understand the various nuances of this virus and their actions may jeopardize the health of entire communities. In both cases, even if citizens are well-educated about the actions they ought to take, they they lack the decisiveness to act immediately; a priceless oppurtunity to improve community resiliance being left not taken advantage of.
+Covid-19 and the Australian wildfires are just 2 examples of how sheer complacency, ignorance and misinformation can give rise to disastrous consequences. This, combined with the increasingly pervasive threat of fake news to society, can potentially undermine our very fragile social systems. In the case of the Australian wildfires, a lack of accurate and reliable information on locations of fire may have made evacuation efforts less spontaneous. In the case of Covid-19, some citizens may not understand the various nuances of this virus and their actions may jeopardize the health of entire communities. In both cases, even if citizens are well-educated about the actions they ought to take, they they lack the decisiveness to act immediately, making the effect of solutions less immediate. 
 
 ### How can technology help?
 
-Technology can help pool and filter all relevant and accurate infomation that may be of interest to a member of public and present them in a convenient and cogent way. Also, technology can eliminate the existential intertia that citizens have to act by actively prompting them to help in any way possible, be it through spreading awareness on social media, or simply putting on a mask etc.
+Technology can help pool and filter all relevant and accurate infomation that may be of interest to a member of public and present them in a convenient and cogent way. Also, technology can eliminate the existential intertia that citizens have to act by immediately providing instructions on what they can do to hekp improve the situation, be it through spreading awareness on social media or avoid heading to Covid-19 clusters to give an example. 
 
 ### The idea
 
-Providing an integrated, one-stop platform for citizens to keep up-to-date with any changes that may have an immediate impact on their health (such as the Poluution Standard Index, covid-19 clusters etc) would offer much convenience and minimise confusion within the general public. This education is critical for communities and nations to be on the same page when identifying and solving issues, improving civil defence and community resilience. Prompting and providing instructions through the app to the users would raise awareness and improve decisiveness, aiding the SCDF in delivering a prompt response to any given situation.  
+Providing an integrated, one-stop platform in the form of a mobile app for citizens to keep up-to-date with important information (such as the Pollution Standard Index, covid-19 clusters etc) can offer much convenience and minimise confusion within the general public. This is critical for communities and nations to be on the same page when identifying and solving issues, improving civil defence and community resilience. Prompting and providing instructions through the app to the users would raise awareness and improve decisiveness, aiding the SCDF in delivering a prompt response to any given situation.  
 
 ## Demo video
 
@@ -39,8 +39,8 @@ Providing an integrated, one-stop platform for citizens to keep up-to-date with 
 
 ![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
 
-**Content Prediction** 
-1. The user opens the app and is directed to the dashboard. Multiple sets of content will be displayed.
+**Tailored Content** 
+1. The user opens the app and is directed to the dashboard. Multiple sets of content will be displayed with local databases and Watson discovery as the data source.
 2. The user can indicate whether he/she enjoys seeing a specific set of content by pressing the button on the bottom right corner of the content box. Green indicates interest while red indicates non-interest.
 3. User preference is fed into AutoAI to predict what content the user enjoys seeing. Predicted content will then be output for user to indicate interest again. Cycle continues. 
 
@@ -49,7 +49,7 @@ Providing an integrated, one-stop platform for citizens to keep up-to-date with 
 2. Watson assistant processes question with watson discovery as data source. 
 3. An answer is output to user. 
 
-**Raising Awareness**
+**Provision of instructions**
 1. User will be prompted to share content through stories on Instagram, or posts on Facebook.
 2. If user allows, webhook to social media app will bring user to the app to share said stories/posts.
 3. Notifications will be generated to urge users to raise awareness even when app is not in use.
