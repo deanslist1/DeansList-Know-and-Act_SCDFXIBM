@@ -35,8 +35,6 @@ Providing an integrated, one-stop platform in the form of a mobile app for citiz
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
-
 **Curated Content** 
 1. The user opens the app and is directed to the dashboard. Multiple sets of content will be displayed with local databases, open-source APIs and Watson discovery as the data source.
 2. The user can indicate whether he/she enjoys seeing a specific set of content by pressing the button on the bottom right corner of the content box. Green indicates interest while red indicates non-interest.
@@ -56,6 +54,7 @@ Providing an integrated, one-stop platform in the form of a mobile app for citiz
 4. Push-notifications will be generated to urge users to raise awareness even when app is not in use.
 
 [picture of sharing information on social media](https://github.com/deanslist1/DeansList_integratedapp_SCDFXIBM/blob/master/2.png)
+
 [picture of other call to actions](https://github.com/deanslist1/DeansList_integratedapp_SCDFXIBM/blob/master/3.png)
 
 ## Long description
@@ -64,9 +63,18 @@ Providing an integrated, one-stop platform in the form of a mobile app for citiz
 
 ## Getting started
 
+### Prerequisites
+
+Machine Learning Service Instance
+Cloud Storage Instance 
+Streaming Analytics Service Instance
+IBM Cognos Dashboard Embedded Instance
+
 ## Live demo
 
 [Chatbot](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=e8aee7e8-f058-4974-a57f-1e14bc736b1b&serviceInstanceID=9758eca1-bbf1-410b-bf41-149706ec94d1)
+
+note: chatbot is not fully refurbished
 
 
 ## Built with
