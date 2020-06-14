@@ -66,9 +66,14 @@ Providing an integrated, one-stop platform in the form of a mobile app for citiz
 ### Prerequisites
 
 Machine Learning Service Instance
+
 Cloud Storage Instance 
+
 Streaming Analytics Service Instance
+
 IBM Cognos Dashboard Embedded Instance
+
+[AppPreference Zip file to be uploaded as new project on Watson Studio](https://github.com/deanslist1/DeansList_integratedapp_SCDFXIBM/blob/master/SCDF-App-Preference-Indicator.zip)
 
 ## Live demo
 
