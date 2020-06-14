@@ -31,7 +31,7 @@ Providing an integrated, one-stop platform in the form of a mobile app for citiz
 
 ## Demo video
 
-[![Watch the video](https://youtu.be/S2iy9F9t5Qo)
+[![pitch video](https://www.youtube.com/watch?v=S2iy9F9t5Qo&feature=youtu.be.jpg)](https://www.youtube.com/watch?v=S2iy9F9t5Qo&feature=youtu.be)
 
 ## The architecture
 
