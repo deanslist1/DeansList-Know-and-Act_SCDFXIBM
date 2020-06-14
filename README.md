@@ -75,6 +75,12 @@ IBM Cognos Dashboard Embedded Instance
 
 [AppPreference Zip file to be uploaded as new project on Watson Studio](https://github.com/deanslist1/DeansList_integratedapp_SCDFXIBM/blob/master/SCDF-App-Preference-Indicator.zip)
 
+### Running the tests 
+
+Create a new project and upload [this file](https://github.com/deanslist1/DeansList_integratedapp_SCDFXIBM/blob/master/SCDF-App-Preference-Indicator.zip). Add the Cognos Dashboard Embedded service instance and the Streaming Analytics service instance when prompted. 
+
+
+
 ## Live demo
 
 [Chatbot](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=e8aee7e8-f058-4974-a57f-1e14bc736b1b&serviceInstanceID=9758eca1-bbf1-410b-bf41-149706ec94d1)
@@ -86,7 +92,6 @@ note: chatbot is not fully refurbished
 
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-* [Flutter](https://flutter.dev/)- To develop the app
 
 ## Acknowledgments
 
