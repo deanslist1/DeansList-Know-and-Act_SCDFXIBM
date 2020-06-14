@@ -11,7 +11,6 @@ Hi! Our team name is Deans List, comprising of members Teo Zhen Jie, Marvin Pran
 1. [The architecture](#the-architecture)
 1. [Long description](#long-description)
 1. [Getting started](#getting-started)
-1. [Running the tests](#running-the-tests)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
 1. [Acknowledgments](#acknowledgments)
@@ -52,71 +51,13 @@ Providing an integrated, one-stop platform in the form of a mobile app for citiz
 1. Once users tap on the curated content, they will be brought to a page on instructions on how they can help.
 2. User will also be prompted to share content through stories on Instagram, or posts on Facebook.
 3. If user allows, webhook to social media app will bring user to the app to share said stories/posts.
-4. Notifications will be generated to urge users to raise awareness even when app is not in use.
+4. Push-notifications will be generated to urge users to raise awareness even when app is not in use.
 
 ## Long description
 
 [Detailed description of our problem and solution](https://docs.google.com/document/d/1jlnSAGuVTAoucwC5s337T9nCjMMMrKKHBf_vb2qPA18/edit?usp=sharing)
 
 ## Getting started
-No materials will be needed as we
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```bash
-dnf install wget
-wget http://www.example.com/install.sh
-bash install.sh
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be, for example
-
-```bash
-export TOKEN="fffd0923aa667c617a62f5A_fake_token754a2ad06cc9903543f1e85"
-export EMAIL="jane@example.com"
-dnf install npm
-node samplefile.js
-Server running at http://127.0.0.1:3000/
-```
-
-And repeat
-
-```bash
-curl localhost:3000
-Thanks for looking at Code-and-Response!
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why, if you were using something like `mocha` for instnance
-
-```bash
-npm install mocha --save-dev
-vi test/test.js
-./node_modules/mocha/bin/mocha
-```
-
-### And coding style tests
-
-Explain what these tests test and why, if you chose `eslint` for example
-
-```bash
-npm install eslint --save-dev
-npx eslint --init
-npx eslint sample-file.js
-```
 
 ## Live demo
 
