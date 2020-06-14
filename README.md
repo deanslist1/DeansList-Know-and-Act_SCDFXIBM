@@ -53,6 +53,8 @@ Providing an integrated, one-stop platform in the form of a mobile app for citiz
 3. If user allows, webhook to social media app will bring user to the app to share said stories/posts.
 4. Push-notifications will be generated to urge users to raise awareness even when app is not in use.
 
+![dashboard](
+
 ## Long description
 
 [Detailed description of our problem and solution](https://docs.google.com/document/d/1jlnSAGuVTAoucwC5s337T9nCjMMMrKKHBf_vb2qPA18/edit?usp=sharing)
