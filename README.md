@@ -10,7 +10,6 @@ Hi! Our team name is Deans List, comprising of members Teo Zhen Jie, Marvin Pran
 1. [Demo video](#demo-video)
 1. [The architecture](#the-architecture)
 1. [Long description](#long-description)
-1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
 1. [Running the tests](#running-the-tests)
 1. [Live demo](#live-demo)
@@ -39,32 +38,28 @@ Providing an integrated, one-stop platform in the form of a mobile app for citiz
 
 ![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
 
-**Tailored Content** 
-1. The user opens the app and is directed to the dashboard. Multiple sets of content will be displayed with local databases and Watson discovery as the data source.
+**Curated Content** 
+1. The user opens the app and is directed to the dashboard. Multiple sets of content will be displayed with local databases, open-source APIs and Watson discovery as the data source.
 2. The user can indicate whether he/she enjoys seeing a specific set of content by pressing the button on the bottom right corner of the content box. Green indicates interest while red indicates non-interest.
-3. User preference is fed into AutoAI to predict what content the user enjoys seeing. Predicted content will then be output for user to indicate interest again. Cycle continues. 
+3. User preference is fed into AutoAI to predict what content the user enjoys seeing. Curated content will then be output for user to indicate interest again. Cycle continues. 
 
 **Chatbot**
-1. User types in question in chatbox
-2. Watson assistant processes question with watson discovery as data source. 
+1. User enters in question in chatbox
+2. Watson assistant processes question with watson discovery and other APIs as data source. 
 3. An answer is output to user. 
 
 **Provision of instructions**
-1. User will be prompted to share content through stories on Instagram, or posts on Facebook.
-2. If user allows, webhook to social media app will bring user to the app to share said stories/posts.
-3. Notifications will be generated to urge users to raise awareness even when app is not in use.
+1. Once users tap on the curated content, they will be brought to a page on instructions on how they can help.
+2. User will also be prompted to share content through stories on Instagram, or posts on Facebook.
+3. If user allows, webhook to social media app will bring user to the app to share said stories/posts.
+4. Notifications will be generated to urge users to raise awareness even when app is not in use.
 
 ## Long description
 
 [Detailed description of our problem and solution](https://docs.google.com/document/d/1jlnSAGuVTAoucwC5s337T9nCjMMMrKKHBf_vb2qPA18/edit?usp=sharing)
 
-## Project roadmap
-
-![Roadmap](roadmap.jpg)
-
 ## Getting started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+No materials will be needed as we
 
 ### Prerequisites
 
@@ -131,7 +126,6 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-* [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
 * [Flutter](https://flutter.dev/)- To develop the app
 
 ## Acknowledgments
