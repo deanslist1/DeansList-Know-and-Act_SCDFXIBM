@@ -23,7 +23,7 @@ Covid-19 and the Australian wildfires are just 2 examples of how sheer complacen
 
 ### How can technology help?
 
-Technology can help pool and filter all relevant and accurate infomation that may be of interest to a member of public and present them in a convenient and cogent way. Also, technology can eliminate the existential intertia that citizens have to act by immediately providing instructions on what they can do to hekp improve the situation, be it through spreading awareness on social media or avoid heading to Covid-19 clusters to give an example. 
+Technology can help pool and filter all relevant and accurate infomation that may be of interest to a member of public and present them in a convenient and cogent way. Also, technology can eliminate the existential intertia that citizens have to act by immediately providing instructions on what they can do to help improve the situation, be it through spreading awareness on social media or avoid heading to Covid-19 clusters to give an example. 
 
 ### The idea
 
@@ -36,9 +36,11 @@ Providing an integrated, one-stop platform in the form of a mobile app for citiz
 ## The architecture
 
 **Curated Content** 
-1. The user opens the app and is directed to the dashboard. Multiple sets of content will be displayed with local databases, open-source APIs and Watson discovery as the data source.
-2. The user can indicate whether he/she enjoys seeing a specific set of content by pressing the button on the bottom right corner of the content box. Green indicates interest while red indicates non-interest.
+1. The user opens the app and is directed to the dashboard. Multiple bullentin boards will be displayed with local databases, open-source APIs and Watson discovery as the data source.
+2. The user can indicate whether he/she enjoys seeing a specific bullentin board t by pressing the button on the bottom right corner of the content box. Green indicates interest while red indicates non-interest.
 3. User preference is fed into AutoAI to predict what content the user enjoys seeing. Curated content will then be output for user to indicate interest again. Cycle continues. 
+
+[picture of chatbox and bullentin boards](https://github.com/deanslist1/DeansList_integratedapp_SCDFXIBM/blob/master/1.png)
 
 **Chatbot**
 1. User enters in question in chatbox
