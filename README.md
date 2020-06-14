@@ -1,4 +1,4 @@
-# DeansList-Know-and-Act_SCDFXIBM
+# DeansList-Know-to-Act_SCDFXIBM
 
 
 Hi! Our team name is Deans List, comprising of members Teo Zhen Jie, Marvin Pranajaya, Joshua Toh and Ivan Tan.
