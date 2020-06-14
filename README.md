@@ -31,7 +31,7 @@ Providing an integrated, one-stop platform in the form of a mobile app for citiz
 
 ## Demo video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://youtu.be/S2iy9F9t5Qo)
 
 ## The architecture
 
