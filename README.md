@@ -29,7 +29,7 @@ Technology can help pool and filter all relevant and accurate infomation that ma
 
 Providing an integrated, one-stop platform in the form of a mobile app for citizens to keep up-to-date with important information (such as the Pollution Standard Index, covid-19 clusters etc) can offer much convenience and minimise confusion within the general public. This is critical for communities and nations to be on the same page when identifying and solving issues, improving civil defence and community resilience. Prompting and providing instructions through the app to the users would raise awareness and improve decisiveness, aiding the SCDF in delivering a prompt response to any given situation.  
 
-## Demo video
+## Pitch video
 
 [![pitch video](https://github.com/deanslist1/DeansList-Know-to-Act_SCDFXIBM/blob/master/thumbnail.PNG)](https://youtu.be/UN2I8uLTZAc)
 
