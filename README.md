@@ -81,7 +81,7 @@ IBM Cognos Dashboard Embedded Instance
 
 Create a new project and upload [this file](https://github.com/deanslist1/DeansList_integratedapp_SCDFXIBM/blob/master/SCDF-App-Preference-Indicator.zip). Add the Cognos Dashboard Embedded service instance and the Streaming Analytics service instance when prompted. 
 
-The models creaated made use of KMeans and associative learning. KMeans groups the users into certain batches while associative learning learns from every time they open the app. Associative learning takes each time they enter the app as a transaction and records all the info from that session so they can predict their behaviour the next time they enter
+The models created made use of KMeans and associative learning. KMeans groups the users into certain batches while associative learning learns every time they open the app. Associative learning takes each time they enter the app as a transaction and records all the info from that session so they can predict their behaviour the next time they enter
 
 
 ## Live demo
