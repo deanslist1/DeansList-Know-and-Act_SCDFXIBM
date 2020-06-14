@@ -47,13 +47,16 @@ Providing an integrated, one-stop platform in the form of a mobile app for citiz
 2. Watson assistant processes question with watson discovery and other APIs as data source. 
 3. An answer is output to user. 
 
+[picture of chatbox and bullentin boards](https://github.com/deanslist1/DeansList_integratedapp_SCDFXIBM/blob/master/1.png)
+
 **Provision of instructions**
 1. Once users tap on the curated content, they will be brought to a page on instructions on how they can help.
 2. User will also be prompted to share content through stories on Instagram, or posts on Facebook.
 3. If user allows, webhook to social media app will bring user to the app to share said stories/posts.
 4. Push-notifications will be generated to urge users to raise awareness even when app is not in use.
 
-![dashboard](
+[picture of sharing information on social media](https://github.com/deanslist1/DeansList_integratedapp_SCDFXIBM/blob/master/2.png)
+[picture of other call to actions](https://github.com/deanslist1/DeansList_integratedapp_SCDFXIBM/blob/master/3.png)
 
 ## Long description
 
